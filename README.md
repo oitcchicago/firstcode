@@ -1,0 +1,2 @@
+# firstcode
+autoscript1
